@@ -1,6 +1,6 @@
 # ⚠️ You need to host it on a real website for it to work! To Buy The Full Clean & Deobfuscated Script Or For Any Other Types Of Scripts & Development Orders Message Me On: https://t.me/zefnftservices
 ----
-## 🤑 Solana Wallet Drainer & NFT Stealer Template
+## 🤑 SOLANA WALLET/NFT DRAINER PAGE
 
 ![@zefnftservices](https://github.com/0xServices/0xServices/blob/main/gif.gif?raw=true)
 ----
