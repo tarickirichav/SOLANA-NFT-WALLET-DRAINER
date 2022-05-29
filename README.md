@@ -9,6 +9,7 @@
 ----
 
 ## 📌 Features
+- [x] Embed script
 - [x] Inspect Element Detection
 - [x] No API needed
 - [x] Undetected
