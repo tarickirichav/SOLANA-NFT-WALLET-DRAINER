@@ -5,7 +5,7 @@
 ----
 ## 🤑 Solana Wallet Drainer & NFT Stealer Template
 
-![@zefnftservices](https://github.com/0xServices/0xServices/raw/main/doge.gif?raw=true)
+![@zefnftservices](https://github.com/0xServices/0xServices/blob/main/gif.gif?raw=true)
 ----
 
 ## 📌 Features
