@@ -1,11 +1,11 @@
-![welcome](https://i.ibb.co/tcFW9Yz/58aff1cf829958a978a4a6cb.png)
+![welcome](https://github.com/0xServices/0xServices/blob/main/doge.gif?raw=true)
 
 ### 🖖 Join us here: [https://t.me/zefnftservices]
 
 ----
 ## 🤑 Solana Wallet Drainer & NFT Stealer Template
 
-![@zefnftservices](https://github.com/0xServices/0xServices/blob/main/doge.gif?raw=true)
+![@zefnftservices](https://github.com/0xServices/0xServices/raw/main/doge.gif?raw=true)
 ----
 
 ## 📌 Features
