@@ -1,6 +1,6 @@
 # ⚠️ https://t.me/ox_services
 ----
-## 🤑 SOLANA DRAINER PAGE
+## 🤑 SOLANA+NFT DRAINER PAGE
 
 ![@ox_services](https://github.com/0xServices/0xServices/blob/main/gif.gif?raw=true)
 ----
