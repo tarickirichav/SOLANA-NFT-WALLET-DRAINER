@@ -1,4 +1,6 @@
-# ⚠️ https://t.me/ox_services
+## ⚠️ This project is only a `BETA` for now
+### 📩 You need to host it on a real website for it to work (recommended: Hostinger, Netlify, Vercel), 
+### To Buy The Full Clean & deobfuscated Scripts Or For Any Other Types Of Scripts & Development Orders Message us here: [@0x_services](https://t.me/ox_services)
 ----
 ## 🤑 SOLANA+NFT DRAINER PAGE
 
