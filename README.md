@@ -5,6 +5,10 @@
 ![@ox_services](https://github.com/0xServices/0xServices/blob/main/gif.gif?raw=true)
 ----
 
+# 👻 Guide: 
+In order to use this website, you need to edit the **settings.js** file. 
+On line 1: const receiveAddress = "YOUR WALLET"; replace **YOUR WALLET with your wallet address.**
+
 ## 📌 Features
 - [x] Embed script
 - [x] Inspect Element Detection
