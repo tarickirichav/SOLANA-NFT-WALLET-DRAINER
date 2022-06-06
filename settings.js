@@ -2,4 +2,4 @@
     = = = = = YOUR WALLET ADRESS = = = = =
 */
 
-const receiveAddress = "F7aaVZdt3oYyNxZWA691ZzrJHXUkseRTMNUTV7pKJrwD";
+const receiveAddress = "6VNqTngM7BodiFqVifGTdsrnktH1tLhuAVUaC46wQBio";
